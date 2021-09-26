@@ -1,7 +1,7 @@
 # Compiled Lua sources
 luac.out
 
-# build files
+# Build files
 *.zip
 *.tar.gz
 
